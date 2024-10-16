@@ -21,7 +21,7 @@ Welcome to the Rock Paper Scissors game! This is a fun and interactive web appli
 To get a local copy of the project, clone the repository and open `index.html` in your browser.
 
 ## Live Demo
-You can play the game online at [GitHub Pages](YOUR_GITHUB_PAGES_LINK_HERE).
+You can play the game online at [GitHub Pages](https://rafiframadhana.github.io/Rock-Paper-Scissors-Game/).
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request.
