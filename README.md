@@ -17,9 +17,6 @@ Welcome to the Rock Paper Scissors game! This is a fun and interactive web appli
 3. The result will be displayed along with your score.
 4. Use the autoplay feature for continuous gameplay.
 
-## Getting Started
-To get a local copy of the project, clone the repository and open `index.html` in your browser.
-
 ## Live Demo
 You can play the game online [here](https://rafiframadhana.github.io/Rock-Paper-Scissors-Game/).
 
