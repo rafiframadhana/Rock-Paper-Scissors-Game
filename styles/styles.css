@@ -1,0 +1,62 @@
+body{
+    font-family: arial;
+    background-color: rgb(24, 24, 24);
+    color: white;
+    padding-left: 15px;
+}
+
+.title{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.move-icon{
+    height: 50px;
+    width: 50px;
+}
+
+.move-button{
+    background-color: transparent;
+    border: 2px solid white;
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.result{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 50px;
+}
+
+.moves{
+    margin-bottom: 50px;
+}
+
+.reset-button, .auto-play-button{
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.auto-play-status{
+    display: inline;
+    margin-left: 10px;
+}
+
+.status-on{
+    background-color: green;
+    padding: 3px 5px;
+    font-weight: bold;
+}
+
+.status-off{
+    background-color: rgb(183, 0, 0);
+    padding: 3px 5px;
+    font-weight: bold;
+}
