@@ -2,9 +2,7 @@ body{
     font-family: arial;
     background-color: rgb(24, 24, 24);
     color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;  
+    padding-left: 15px;
 }
 
 .title{
